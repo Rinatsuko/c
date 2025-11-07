@@ -2,6 +2,6 @@
 int main
 {
     (
-        printf("1");
+        printf("1"); // only test
         return 0;)
 }
